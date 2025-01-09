@@ -1,6 +1,6 @@
 # Analyzing data from genome-wide CRISPR screens in mammalian cells
 
-This repository contains material for the HMS Genetics Bootcamp held on January 12, 2024.
+This repository contains material for the HMS Genetics Bootcamp held on January 15, 2025.
 
 ## Rationale
 CRISPR-based technologies have revolutionized biology. These tools enable scalable perturbations of gene function, such as knockout, knockdown, and overexpression, and combined with advances in sequencing and nucleotide synthesis, enable genome-wide screens, previously restricted to non-mammalian model organisms, directly in mammalian cells. This enables rapid generation of insights into biology relevant to human biology and disease. The goal of this lab is to provide students an overview of the logic, benefits, and limitations of CRISPR screens as well as hands-on experience in analyzing screen data and then generating testable hypotheses, such that students can deploy screens for their own research.
