@@ -1,0 +1,11 @@
+name: bootcamp
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.8
+  - notebook
+  - pandas
+  - bokeh=2.4.3
+  - jupyter_bokeh
