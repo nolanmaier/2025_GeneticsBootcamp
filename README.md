@@ -33,4 +33,4 @@ Lecture on the history of CRISPR-based technologies and current tools for perfor
 
 The sequencing data processing section of the course will use [sample_illumina_data.fastq](sample_illumina_data.fastq) and [hCRISPRiv2_sgRNA_list.xlsx](hCRISPRiv2_sgRNA_list.xlsx).
 
-The CRISPR screen analysis section of the course will use the Jupyter notebook [CRISPR_screen_analysis.ipynb](CRISPR_screen_analysis.ipynb) and the datasets in [CRISPR_screendata](CRISPR_screendata). The notebook can be run directly in your browser using [Google Colab](https://colab.research.google.com/github/nolanmaier/2024_GeneticsBootcamp/blob/main/CRISPR_screen_analysis.ipynb) (requires a Google account).
+The CRISPR screen analysis section of the course will use the Jupyter notebook [CRISPR_screen_analysis.ipynb](CRISPR_screen_analysis.ipynb) and the datasets in [CRISPR_screendata](CRISPR_screendata). The notebook can be run directly in your browser using [Google Colab](https://colab.research.google.com/github/nolanmaier/2025_GeneticsBootcamp/blob/main/CRISPR_screen_analysis.ipynb) (requires a Google account).
