@@ -29,7 +29,7 @@ Lecture on the history of CRISPR-based technologies and current tools for perfor
 14:00-16:00 Analyzing and exploring data from a CRISPR screen
 
 ## Materials
-[CRISPR_Screen_Introduction.pptx](CRISPR_Screen_Introduction.pptx) contains general background on CRISPR screening technology. [CRISPR_Screen_Analysis.pptx](CRISPR_Screen_Analysis.pptx) contains information on the screen data analysed in the Jupyter notebook. 
+[CRISPR_Screen_Introduction_2025.pptx](CRISPR_Screen_Introduction_2025.pptx) contains general background on CRISPR screening technology. [CRISPR_Screen_Analysis_2025.pptx](CRISPR_Screen_Analysis_2025.pptx) contains information on the screen data analysed in the Jupyter notebook. 
 
 The sequencing data processing section of the course will use [sample_illumina_data.fastq](sample_illumina_data.fastq) and [hCRISPRiv2_sgRNA_list.xlsx](hCRISPRiv2_sgRNA_list.xlsx).
 
